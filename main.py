@@ -1,7 +1,3 @@
-print("hello world")
-
-print("Welcome to my Quiz about _!")
-input("Are you ready to begin?")
-
-print("Question 1: What is the capital of New Zealand?")
-input("Is the answer: A: Auckland B: Wellington or C: Christchurch?")
+print("Welcome to this Quiz about Aotearoa New Zealand!")
+start_code = input("Press Enter to start!")
+print("Let's begin:")
